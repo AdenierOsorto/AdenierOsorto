@@ -2,7 +2,6 @@
 I'm a Backend developer 💻.
 
 ## I'm doing...
-
 - 🔭 I’m currently working @ [San Services](https://www.sanservices.hn/).
 <br />
 
