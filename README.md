@@ -7,18 +7,10 @@ I'm a Backend developer 💻.
 <br />
 
 ## Languages and Tools
-<code>
-    <img height="20" src="https://go.dev/images/go-logo-white.svg" alt="Go Logo"/>
-</code>
-<code>
-    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo"/>
-</code>
-<code>
-    <img height="20" src="https://echo.labstack.com/img/logo-dark.svg" alt="Echo Logo"/>
-</code>
-<code>
-    Express <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo"/>
-</code>
+<code><img height="20" src="https://go.dev/images/go-logo-white.svg" alt="Go Logo"/></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo"/></code>
+<code><img height="20" src="https://echo.labstack.com/img/logo-dark.svg" alt="Echo Logo"/></code>
+<code>Express <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo"/></code>
 
 ---
 
