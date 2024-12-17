@@ -14,5 +14,5 @@ I'm a Backend developer 💻.
 
 ---
 
-![AdenierOsorto's github stats](https://github-readme-stats.vercel.app/api?username=AdenierOsorto&show_icons=true&hide_border=true)
+![AdenierOsorto's github stats](https://github-readme-stats.vercel.app/api?username=AdenierOsorto&show_icons=true&hide_border=true&include_all_commits=true)
 [![AdenierOsorto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdenierOsorto&hide=php,ejs,blade,pug)](https://github.com/anuraghazra/github-readme-stats)
