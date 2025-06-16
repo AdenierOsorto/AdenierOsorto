@@ -3,7 +3,6 @@ I'm a Backend developer 💻.
 
 ## I'm doing...
 - 🔭 I’m currently working @ [San Services](https://www.sanservices.hn/).
-<img align="right" alt="GIF" src="adenier-min.JPG" width="340px" />
 <br />
 
 ## Languages and Tools
